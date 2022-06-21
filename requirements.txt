@@ -9,7 +9,7 @@ Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 keras-segmentation==0.2.0
 Markdown==3.1.1
-numpy==1.17.2
+numpy==1.22.0
 opencv-contrib-python==4.1.1.26
 protobuf==3.9.1
 PyYAML==5.1.2
